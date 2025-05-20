@@ -1,0 +1,57 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# IDEA
+*.iml
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+surefire-reports/
+test-output/
+
+# Other
+*.swp
+*.swo
+
+# Ignore by default any files/folders starting with . (hidden)
+.*
+!.gitignore
